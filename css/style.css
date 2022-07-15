@@ -2,6 +2,9 @@
 :root{
     --color-1: #2f3240;
 }
+html {
+  scroll-behavior: smooth;
+}
 body{
 	font-family: sans-serif;
 	background-color: #ffffff;
